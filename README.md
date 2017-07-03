@@ -24,4 +24,4 @@ TODOs:
 - add mute sound feature to be able to play in the middle of the night without disturbing your neighbors!
 - improve graphics, sounds & design
 
-Do you want to contribute ? Just send me a mail to dimircea{at]gmail.com
+Do you want to contribute ? Just send me a mail to pazhani.rph@gmail.com
